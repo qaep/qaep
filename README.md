@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=30&duration=3800&pause=1000&color=FFFFFF&width=435&lines=intrusif)](https://git.io/typing-svg)
 <img align="left" src="https://i.imgur.com/E7RNrjt.png" width="147"/>
 
-[github](https://github.com/qaaep)
-[guns.lol](https://guns.lol/intrusif) 
-[discord](https://discord.com/users/1119309218340671639)
+```csharp
+github.com/qaep
+dsc   $  @intrusif
+guns  $  guns.lol/intrusif
+```
 &zwnj; 
 &zwnj; 
 ![](https://komarev.com/ghpvc/?username=qaep)
